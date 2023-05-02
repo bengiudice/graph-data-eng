@@ -1,0 +1,192 @@
+  1. Design
+  2. Schemas
+  3. Real-time
+  4. Integrity
+  5. Frameworks
+  6. CAP
+  7. Optimization
+  8. Partitioning
+  9. Serialization
+ 10. Analytics
+ 11. Security
+ 12. ETL
+ 13. Warehouse
+ 14. Partitioning
+ 15. CAP
+ 16. Data-lake
+ 17. Quality
+ 18. Evolution
+ 19. Monitoring
+ 20. Processing
+ 21. Compliance
+ 22. ETL
+ 23. Databases
+ 24. Quality
+ 25. CAP
+ 26. Processing
+ 27. KPIs
+ 28. Evolution
+ 29. Sharding
+ 30. Security
+ 31. Streaming
+ 32. Architectures
+ 33. Monitoring
+ 34. Cloud
+ 35. Versioning
+ 36. Challenge
+ 37. Schemas
+ 38. Partitioning
+ 39. Messaging
+ 40. Quality
+ 41. CAP
+ 42. KPIs
+ 43. Data-lake
+ 44. Lambda
+ 45. ETL
+ 46. Challenges
+ 47. Migrations
+ 48. Sharding
+ 49. Cloud
+ 50. Storage
+ 51. Optimization
+ 52. Design
+ 53. Modeling
+ 54. Versioning
+ 55. Normalization
+ 56. Security
+ 57. Schemas
+ 58. Partitioning
+ 59. CAP/ACID
+ 60. Indexes
+ 61. Handling
+ 62. Normalization/Denormalization
+ 63. ETL-tools
+ 64. Quality
+ 65. Evolution
+ 66. Optimization
+ 67. Differences
+ 68. Scaling
+ 69. Data-lake
+ 70. Formats
+ 71. Compression
+ 72. Monitoring
+ 73. Frameworks
+ 74. CDC
+ 75. Privacy
+ 76. Lineage
+ 77. Design
+ 78. Schemas
+ 79. Integrity
+ 80. CAP-tradeoffs
+ 81. Partitioning
+ 82. Optimization
+ 83. Migrations
+ 84. Processing
+ 85. Implementation
+ 86. Cloud
+ 87. ETL
+ 88. CAP
+ 89. Partitioning
+ 90. SQL/NoSQL
+ 91. Quality
+ 92. Changes
+ 93. Normalization
+ 94. Batch/Real-time
+ 95. Optimization
+ 96. Data-lake
+ 97. Warehousing
+ 98. Monitoring
+ 99. Privacy
+100. Lineage
+101. Compatibility
+102. Optimization
+103. Structure
+104. CAP
+105. Quality
+106. Storage
+107. Processing
+108. Evolution
+109. Partitioning
+110. Indexing
+111. Monitoring
+112. Security
+113. Real-time
+114. Normalization
+115. SQL/NoSQL
+116. Cloud
+117. Partition
+118. Schemas
+119. CAP
+120. Evolution
+121. Ingestion
+122. Optimization
+123. Normalization
+124. ETL
+125. Compliance
+126. Processing
+127. Redundancy
+128. Formats
+129. Troubleshooting
+130. Sharding
+131. Orchestration
+132. ETL
+133. Schemas
+134. Partitioning
+135. CAP
+136. Integrity
+137. Processing
+138. Performance
+139. RDBMS/NoSQL
+140. Data-lake
+141. Versioning
+142. Big-data
+143. Security
+144. Cloud-platforms
+145. Integration
+146. Containerization
+147. ETL
+148. Schemas
+149. Quality
+150. Partitioning
+151. CAP
+152. Columnar-Row
+153. Monitoring
+154. Evolution
+155. Real-time
+156. Security
+157. Data-Lake
+158. Optimization
+159. Migrations
+160. NoSQL-Varieties
+161. Evaluation
+162. ETL-Design
+163. CAP-Implications
+164. Quality
+165. Star-Snowflake
+166. Partitioning
+167. NoSQL-SQL
+168. Query-Optimization
+169. Eventual-Consistency
+170. Real-Time
+171. Schema-Evolution
+172. Lambda-Kappa
+173. Privacy
+174. Health-Monitoring
+175. Containerization
+176. Machine-Learning
+177. ETL-Best-Practices
+178. CAP-Application
+179. Database-Differences
+180. Partition-Strategy
+181. Serialization
+182. Compatibility
+183. Optimization-Techniques
+184. Quality-Issues
+185. Stream-Batch
+186. Pipeline-Monitoring
+187. Privacy-Security
+188. Challenges
+189. Data-Lake-Differences
+190. Cloud-Services
+191. MapReduce
+192. Database-Selection
