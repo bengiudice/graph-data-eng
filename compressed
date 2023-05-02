@@ -1,0 +1,90 @@
+batch 0 - 99:
+
+1. How do you design and implement scalable and maintainable ETL (Extract, Transform, Load) pipelines? Can you walk through an example?
+2. Can you explain the CAP theorem? How does it apply to the design and selection of data storage systems?
+3. How do you partition data in a distributed database? What factors do you consider when choosing a partitioning strategy?
+4. What are the key differences between SQL and NoSQL databases? Can you provide examples of use cases that would be best suited for each type?
+5. How do you ensure data quality and integrity within a data pipeline? What techniques or tools can be used for data validation and cleansing?
+6. How do you handle schema changes in a database? What are some strategies for managing schema evolution?
+7. What is data normalization, and what are its advantages and disadvantages? When would you choose to normalize or denormalize data?
+8. Can you discuss the differences between batch and real-time processing? What are the trade-offs, and when would you choose one approach over the other?
+9. How do you optimize query performance in a relational database? What factors should be considered when creating indexes?
+10. What are some key considerations for designing a data lake architecture? How do you ensure data is accessible, secure, and well-governed?
+11. Can you explain the role of data warehousing in a modern data engineering architecture? How do data warehouses differ from data lakes?
+12. How do you monitor and maintain the performance of a distributed database system? What tools and techniques can be used to identify and address performance bottlenecks?
+13. How do you design and implement data security and privacy measures in a data pipeline? What are some best practices and regulatory standards you adhere to?
+14. How do you approach optimizing query performance in a distributed database? What factors do you consider, and what tools or techniques do you use to analyze and improve performance?
+15. Can you explain the differences between a star schema and a snowflake schema in a data warehouse? When would you choose one over the other?
+16. How do you handle large-scale data processing in a distributed environment? Can you compare and contrast different data processing frameworks such as Apache Hadoop, Apache Spark, and Apache Flink?
+17. What are your experiences with cloud-based data storage and processing solutions, such as Amazon S3, Google Cloud Storage, and Azure Data Lake? What are the advantages and challenges of working with these platforms?
+18. How do you handle data versioning and lineage in your data engineering projects? Can you discuss the importance of these concepts and their impact on reproducibility and data governance?
+19. How do you choose the appropriate storage formats for different types of data (e.g., structured, semi-structured, unstructured)?
+
+batch 100 - ...
+
+1. How do you design a scalable and maintainable ETL pipeline? What are the key components and best practices?
+2. Can you explain the CAP theorem? How does it apply to various distributed databases and data storage systems?
+3. What are the differences between various types of databases, such as relational, NoSQL, and columnar databases? When would you choose one over the other?
+4. How do you partition data in a distributed database for optimal performance? What factors should be considered when determining a partitioning strategy?
+5. Can you discuss the benefits and drawbacks of various data serialization formats, such as JSON, Avro, Parquet, and ORC? When would you choose one format over another?
+6. How do you handle schema evolution in a distributed data storage system, ensuring that both backward and forward compatibility are maintained?
+7. How do you optimize query performance in a distributed database? Can you discuss techniques such as indexing, caching, and denormalization?
+8. What are some common data quality issues you have encountered, and how have you addressed them in a data pipeline?
+9. Can you discuss the differences between stream processing and batch processing? When would you choose one approach over the other? How would you implement each in a data pipeline?
+10. How do you monitor the performance and health of a data pipeline? What metrics do you track, and what tools do you use for monitoring?
+11. How do you ensure data privacy and security in a data engineering project? Can you discuss techniques such as encryption, access control, and data masking?
+12. What are some common challenges when working with big data, and how do you address them? How do you handle data skew and hotspots in a distributed database?
+13. Can you discuss the concept of data lake and how it differs from a traditional data warehouse? When would you choose to use a data lake architecture?
+14. How do you choose between various cloud-based data storage and processing services, such as AWS S3, Redshift, BigQuery, and Azure Data Lake Storage? What factors do you consider when making this decision?
+15. Can you explain the MapReduce programming model? How does it relate to other distributed data processing frameworks, such as Apache Spark and Flink?
+
+batches merged:
+
+etl                         | How do you design and implement scalable and maintainable ETL (Extract, Transform, Load) pipelines?
+                            | Can you walk through an example?
+cap                         | Can you explain the CAP theorem?
+                            | How does it apply to the design and selection of data storage systems?
+partition                   | How do you partition data in a distributed database?
+                            | What factors do you consider when choosing a partitioning strategy?
+sql nosql                   | What are the key differences between SQL and NoSQL databases?
+                            | Can you provide examples of use cases that would be best suited for each type?
+quality integrity           | How do you ensure data quality and integrity within a data pipeline?
+                            | What techniques or tools can be used for data validation and cleansing?
+                            | What are some common data quality issues you have encountered, and how have you addressed them in a data pipeline?
+schema                      | How do you handle schema changes in a database?
+                            | What are some strategies for managing schema evolution?
+normalization               | What is data normalization, and what are its advantages and disadvantages?
+                            | When would you choose to normalize or denormalize data?
+batch real-time             | Can you discuss the differences between batch and real-time processing?
+                            | What are the trade-offs, and when would you choose one approach over the other?
+query performance           | How do you optimize query performance in a relational database?
+                            | What factors should be considered when creating indexes?
+                            | How do you approach optimizing query performance in a distributed database?
+							| What factors do you consider, and what tools or techniques do you use to analyze and improve performance?
+data lake                   | What are some key considerations for designing a data lake architecture?
+                            | How do you ensure data is accessible, secure, and well-governed?
+data warehouse              | Can you explain the role of data warehousing in a modern data engineering architecture?
+                            | How do data warehouses differ from data lakes?
+monitor performance         | How do you monitor and maintain the performance of a distributed database system?
+                            | What tools and techniques can be used to identify and address performance bottlenecks?
+security privacy            | How do you design and implement data security and privacy measures in a data pipeline?
+                            | What are some best practices and regulatory standards you adhere to?
+                            | How do you ensure data privacy and security in a data engineering project?
+							| Can you discuss techniques such as encryption, access control, and data masking?
+star snowflake              | Can you explain the differences between a star schema and a snowflake schema in a data warehouse?
+                            | When would you choose one over the other?
+large-scale data processing | How do you handle large-scale data processing in a distributed environment?
+                            | Can you compare and contrast different data processing frameworks such as Apache Hadoop, Apache Spark, and Apache Flink?
+cloud storage processing    | What are your experiences with cloud-based data storage and processing solutions, such as Amazon S3, Google Cloud Storage, and Azure Data Lake?
+                            | What are the advantages and challenges of working with these platforms?
+versioning lineage          | How do you handle data versioning and lineage in your data engineering projects?
+                            | Can you discuss the importance of these concepts and their impact on reproducibility and data governance?
+storage format              | How do you choose the appropriate storage formats for different types of data (e.g., structured, semi-structured, unstructured)?
+serialization formats       | Can you discuss the benefits and drawbacks of various data serialization formats, such as JSON, Avro, Parquet, and ORC?
+                            | When would you choose one format over another?
+monitor health              | How do you monitor the performance and health of a data pipeline?
+                            | What metrics do you track, and what tools do you use for monitoring?
+big data                    | What are some common challenges when working with big data, and how do you address them?
+                            | How do you handle data skew and hotspots in a distributed database?
+mapReduce                   | Can you explain the MapReduce programming model?
+                            | How does it relate to other distributed data processing frameworks, such as Apache Spark and Flink?

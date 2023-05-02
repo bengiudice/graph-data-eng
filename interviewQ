@@ -1,38 +1,39 @@
-etl                     | How do you design a scalable and maintainable ETL pipeline? 
-                        | Can you walk us through the key components and best practices?
-                        | What are some best practices and tools you would use?
-star snowflake          | Can you discuss the differences between a star schema and a snowflake schema in data warehousing? 
-                        | What are the trade-offs and when would you use each?
-real-time               | How do you handle large-scale data ingestion and processing in real-time? 
-                        | What tools or frameworks would you use, and why?
-quality integrity       | How do you ensure data quality and integrity in a distributed system?
-                        | What strategies do you employ to detect and handle data inconsistencies or anomalies?
-                        | Can you discuss some data quality assurance techniques and tools ?
-big data                | Can you explain the differences between big data processing frameworks like Hadoop and Spark? 
-                        | When you would choose one over the other?
-cap                     | Can you discuss the CAP theorem and its implications for distributed database systems? 
-                        | How do you balance consistency, availability, and partition tolerance in a real-world system?
-optimise query          | How do you approach optimizing query performance in a distributed database? 
-                        | What factors do you consider, and what tools or techniques do you use to analyze and improve performance?
-partitioning            | Can you explain the concept of data partitioning and its significance in distributed systems?
-                        | What are the different types of partitioning, and how do you choose the right partitioning strategy?
-						| How do you partition large datasets in distributed databases like Apache Cassandra or AWS Redshift?
-						| What are the advantages of partitioning, and what factors do you consider when choosing a partition key?
-serde schema            | What strategies do you use for data serialization and deserialization in a distributed system?
-                        | How do you deal with schema changes in a database without affecting the existing data pipelines and analytics?
-                        | How do you manage schema evolution and ensure backward compatibility?
-security privacy        | How do you design and implement data security and privacy measures in a data pipeline? 
-                        | What are some best practices and regulatory standards you adhere to?
-						| How do you ensure data security and compliance in a data engineering project, especially when dealing with sensitive information?
-						| What are some best practices and tools typically used for data encryption, anonymization, and access control?
-data lake				| What is the role of a data lake in a modern data architecture?
-						| How does it differ from a data warehouse, and when would you use each?
-monitor performance     | How do you monitor and optimize the performance of a distributed data processing system, like Apache Spark or Apache Flink? 
-                        | What are some key metrics you would track, and how would you address bottlenecks?
-batch stream            | Explain the difference between batch processing and stream processing in the context of data engineering.
-                        | When would you use each approach, and what are some popular tools for each?
-database types          | What are the different types of database systems typically used?
-                        | And how do you decide which one to use for a specific project?
-						| Can you explain the differences between various types of databases, such as relational, NoSQL, and graph databases, and discuss when to use each one?
-ml                      | How might you use machine learning or advanced analytics in a data engineering projects?
-                        | Can you discuss typical challenges one might face and how you would overcome them?
+etl                 | How do you design a scalable and maintainable ETL pipeline? 
+                    | Can you walk us through the key components and best practices?
+                    | What are some best practices and tools you would use?
+star snowflake      | Can you discuss the differences between a star schema and a snowflake schema in data warehousing? 
+                    | What are the trade-offs and when would you use each?
+real-time           | How do you handle large-scale data ingestion and processing in real-time? 
+                    | What tools or frameworks would you use, and why?
+quality integrity   | How do you ensure data quality and integrity in a distributed system?
+                    | How do you ensure data quality and integrity in a large-scale data pipeline? What tools and techniques do you use for data validation and cleansing?
+                    | What strategies do you employ to detect and handle data inconsistencies or anomalies?
+                    | Can you discuss some data quality assurance techniques and tools ?
+big data            | Can you explain the differences between big data processing frameworks like Hadoop and Spark? 
+                    | When you would choose one over the other?
+cap                 | Can you discuss the CAP theorem and its implications for distributed database systems? 
+                    | How do you balance consistency, availability, and partition tolerance in a real-world system?
+optimise query      | How do you approach optimizing query performance in a distributed database? 
+                    | What factors do you consider, and what tools or techniques do you use to analyze and improve performance?
+partitioning        | Can you explain the concept of data partitioning and its significance in distributed systems?
+                    | What are the different types of partitioning, and how do you choose the right partitioning strategy?
+					| How do you partition large datasets in distributed databases like Apache Cassandra or AWS Redshift?
+					| What are the advantages of partitioning, and what factors do you consider when choosing a partition key?
+serde schema        | What strategies do you use for data serialization and deserialization in a distributed system?
+                    | How do you deal with schema changes in a database without affecting the existing data pipelines and analytics?
+                    | How do you manage schema evolution and ensure backward compatibility?
+security privacy    | How do you design and implement data security and privacy measures in a data pipeline? 
+                    | What are some best practices and regulatory standards you adhere to?
+					| How do you ensure data security and compliance in a data engineering project, especially when dealing with sensitive information?
+					| What are some best practices and tools typically used for data encryption, anonymization, and access control?
+data lake			| What is the role of a data lake in a modern data architecture?
+					| How does it differ from a data warehouse, and when would you use each?
+monitor performance | How do you monitor and optimize the performance of a distributed data processing system, like Apache Spark or Apache Flink? 
+                    | What are some key metrics you would track, and how would you address bottlenecks?
+batch stream        | Explain the difference between batch processing and stream processing in the context of data engineering.
+                    | When would you use each approach, and what are some popular tools for each?
+database types      | What are the different types of database systems typically used?
+                    | And how do you decide which one to use for a specific project?
+					| Can you explain the differences between various types of databases, such as relational, NoSQL, and graph databases, and discuss when to use each one?
+ml                  | How might you use machine learning or advanced analytics in a data engineering projects?
+                    | Can you discuss typical challenges one might face and how you would overcome them?
